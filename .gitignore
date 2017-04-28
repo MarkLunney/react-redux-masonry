@@ -1,0 +1,9 @@
+node_modules/
+build/
+img/
+data/
+tests/
+coverage/
+.eslintcache
+npm-debug.log
+
