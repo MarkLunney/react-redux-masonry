@@ -64,15 +64,14 @@
     "style-loader": "^0.13.2",
     "stylelint": "^7.9.0",
     "url-loader": "^0.5.8",
-    "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.2.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5",
     "webpack-merge": "^4.1.0",
     "webpack-sources": "^0.2.3"
   },
   "dependencies": {
-    "components": "^0.1.0",
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
     "react-masonry-component": "^5.0.4",
     "redux-logger": "^3.0.1",
     "babel-plugin-react-css-modules": "^2.6.1"
